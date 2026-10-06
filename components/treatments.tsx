@@ -5,6 +5,7 @@ import treatmentsData from "@/content/treatments.json";
 import ptTreatments from "@/content/treatments-pt.json";
 import { Accordion, AccordionContent, AccordionItem, AccordionTrigger } from "@/components/ui/accordion";
 import { Tabs, TabsList, TabsTrigger } from "@/components/ui/tabs";
+import { ChapterHead } from "@/components/arrive";
 import { Plate } from "@/components/plate";
 import { useI18n } from "@/lib/i18n";
 import { BOOKING, chipLabels, groups, type Lang } from "@/lib/messages";
@@ -47,10 +48,12 @@ export function Treatments() {
   return (
     <section id="treatments" className="chapter mt-28 md:mt-40 lg:mt-48">
       <div className="mx-auto max-w-page px-5 md:px-10 lg:px-16">
-        <p className="kicker">{t.treatments.kicker}</p>
-        <h2 className="display mt-4 text-[clamp(2.7rem,5vw,4.8rem)]">
-          {t.treatments.titleA} <em className="emph">{t.treatments.titleEm}</em>
-        </h2>
+        <ChapterHead>
+          <p className="kicker">{t.treatments.kicker}</p>
+          <h2 className="display mt-4 text-[clamp(2.7rem,5vw,4.8rem)]">
+            {t.treatments.titleA} <em className="emph">{t.treatments.titleEm}</em>
+          </h2>
+        </ChapterHead>
         <div className="mt-5 max-w-2xl space-y-3 text-[0.98rem] leading-snug md:mt-6 md:space-y-4 md:text-[1.02rem] md:leading-relaxed">
           <p>{t.treatments.p1}</p>
           <p>{t.treatments.p2}</p>

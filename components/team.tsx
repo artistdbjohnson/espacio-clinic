@@ -2,6 +2,7 @@
 
 import Image from "next/image";
 import { Accordion, AccordionContent, AccordionItem, AccordionTrigger } from "@/components/ui/accordion";
+import { ChapterHead } from "@/components/arrive";
 import { Plate } from "@/components/plate";
 import { biography, team } from "@/lib/team";
 import { useI18n } from "@/lib/i18n";
@@ -14,13 +15,15 @@ export function Team() {
   return (
     <section id="team" className="chapter mt-28 md:mt-40 lg:mt-48">
       <div className="mx-auto max-w-page px-5 md:px-10 lg:px-16">
-        <p className="kicker">{t.team.kicker}</p>
-        <h2 className="display mt-4 max-w-4xl text-[clamp(2.7rem,5.4vw,5rem)]">
-          {t.team.meet} <em className="emph">{t.team.our}</em> {t.team.team}
-          <span className="block">
-            {t.team.of} <em className="emph">{t.team.experts}</em>
-          </span>
-        </h2>
+        <ChapterHead>
+          <p className="kicker">{t.team.kicker}</p>
+          <h2 className="display mt-4 max-w-4xl text-[clamp(2.7rem,5.4vw,5rem)]">
+            {t.team.meet} <em className="emph">{t.team.our}</em> {t.team.team}
+            <span className="block">
+              {t.team.of} <em className="emph">{t.team.experts}</em>
+            </span>
+          </h2>
+        </ChapterHead>
 
         <article className="mt-8 grid grid-cols-[6.75rem_1fr] items-start gap-4 border-t hairline pt-6 md:mt-14 md:grid-cols-12 md:gap-10 md:pt-10 lg:mt-16 lg:gap-14">
           <Plate

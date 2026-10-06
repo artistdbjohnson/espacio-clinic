@@ -2,6 +2,7 @@
 
 import { useEffect, useState } from "react";
 import { EMAIL, FACEBOOK, hours, INSTAGRAM, MAPS, TEL_HREF, TEL_LABEL } from "@/lib/messages";
+import { ChapterHead } from "@/components/arrive";
 import { Film } from "@/components/film";
 import { Plate } from "@/components/plate";
 import { useI18n } from "@/lib/i18n";
@@ -38,8 +39,10 @@ export function Visit() {
   return (
     <section id="visit" className="chapter mt-28 md:mt-40 lg:mt-48">
       <div className="mx-auto max-w-page px-5 md:px-10 lg:px-16">
-        <p className="kicker">{t.visit.kicker}</p>
-        <h2 className="display mt-4 text-[clamp(2.7rem,5vw,4.8rem)]">{t.visit.title}</h2>
+        <ChapterHead>
+          <p className="kicker">{t.visit.kicker}</p>
+          <h2 className="display mt-4 text-[clamp(2.7rem,5vw,4.8rem)]">{t.visit.title}</h2>
+        </ChapterHead>
         <div className="mt-10 grid items-start gap-10 lg:mt-14 lg:grid-cols-12 lg:gap-14">
           <div className="border-t hairline lg:col-span-5">
             <div className="border-b hairline py-6">

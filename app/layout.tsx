@@ -25,6 +25,7 @@ try {
   var l = localStorage.getItem("espacio-lang");
   if (l === "pt") document.documentElement.lang = "pt";
   var reduce = window.matchMedia("(prefers-reduced-motion: reduce)").matches;
+  if (!reduce) document.documentElement.classList.add("motion");
   var seen = sessionStorage.getItem("espacio-open");
   var hash = location.hash && location.hash.length > 1;
   if (!reduce && !seen && !hash) document.documentElement.classList.add("is-opening");
