@@ -1,5 +1,6 @@
 "use client";
 
+import { ChapterHead } from "@/components/arrive";
 import { Plate } from "@/components/plate";
 import { useI18n } from "@/lib/i18n";
 
@@ -9,10 +10,12 @@ export function Core() {
   return (
     <section id="core" className="chapter mt-28 md:mt-40 lg:mt-48">
       <div className="mx-auto max-w-page px-5 md:px-10 lg:px-16">
-        <p className="kicker">{t.core.kicker}</p>
-        <h2 className="display mt-4 text-[clamp(2.7rem,5vw,4.8rem)]">
-          {t.core.titleA} <em className="emph">{t.core.titleB}</em>
-        </h2>
+        <ChapterHead>
+          <p className="kicker">{t.core.kicker}</p>
+          <h2 className="display mt-4 text-[clamp(2.7rem,5vw,4.8rem)]">
+            {t.core.titleA} <em className="emph">{t.core.titleB}</em>
+          </h2>
+        </ChapterHead>
         <div className="mt-8 grid items-start gap-8 lg:mt-14 lg:grid-cols-12 lg:gap-16">
           <div className="order-2 space-y-4 text-[1.05rem] leading-relaxed lg:order-1 lg:col-span-5">
             {t.core.intro.map((paragraph) => (
