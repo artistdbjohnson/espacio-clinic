@@ -1,0 +1,855 @@
+{
+  "menopause-hormone-assessment": {
+    "name": "Consulta de menopausa e hormonas",
+    "target": "Preocupações-alvo: perimenopausa, menopausa, hormonas, questões de saúde da mulher",
+    "description": "Principais preocupações que trata: uma abordagem personalizada e assente na ciência à sua saúde hormonal. As alterações hormonais podem afetar cada aspeto de como se sente, da energia e do humor ao sono, ao peso e à confiança. A nossa avaliação de menopausa e hormonas foi pensada para o ajudar a compreender o seu corpo, os seus sintomas e as suas opções. Quer esteja nos primeiros sinais de perimenopausa, quer esteja a atravessar a menopausa, oferecemos cuidado especializado e compassivo, feito à sua medida.",
+    "pricing": [
+      "Note que todas as nossas consultas exigem um sinal.",
+      "Consulta inicial de saúde da mulher (45 minutos) £295",
+      "Revisão standard de saúde da mulher (20 minutos) £130",
+      "Revisão alargada de saúde da mulher (30 minutos) £190",
+      "Revisão anual de saúde da mulher (30 minutos) £190"
+    ],
+    "faq": [
+      {
+        "q": "O que é uma avaliação de menopausa e hormonas?",
+        "a": "É uma consulta médica abrangente, centrada em identificar desequilíbrios hormonais e em acompanhá-lo em cada fase da menopausa.\nOs níveis hormonais — incluindo estrogénio, progesterona e testosterona — flutuam naturalmente neste período, muitas vezes com sintomas como afrontamentos, ansiedade, perturbação do sono e humor em baixo.\nO nosso objetivo é avaliar estas alterações, compreender os seus sintomas e criar um plano de tratamento personalizado que apoie a sua saúde a longo prazo."
+      },
+      {
+        "q": "Em que consiste o tratamento?",
+        "a": "O seu percurso começa sempre com uma conversa.\nDurante a consulta, iremos:\nFazer uma história médica e de estilo de vida detalhada\nExplorar em profundidade os seus sintomas e preocupações\nPedir análises dirigidas (se for adequado)\nRever os níveis hormonais e marcadores essenciais de saúde\nDiscutir opções de tratamento baseadas na evidência\nCriar um plano de cuidados personalizado\nQuando for adequado, pode incluir terapêutica de substituição hormonal (THS), que pode ser muito eficaz no controlo dos sintomas e no apoio ao bem-estar geral."
+      },
+      {
+        "q": "Em que podemos ajudar?",
+        "a": "Afrontamentos e suores noturnos\nHumor em baixo, ansiedade ou névoa mental\nPerturbação do sono e fadiga\nAlterações de peso\nLibido baixa\nDores articulares e menos energia\nPeríodos irregulares ou em mudança\nA nossa abordagem\nAdotamos uma abordagem holística e centrada no paciente aos cuidados da menopausa.\nIsto significa:\nNada de tratamentos iguais para todos\nTempo para escutar e compreender a sua experiência\nUm equilíbrio entre conhecimento médico e apoio ao estilo de vida\nAcompanhamento contínuo e otimização"
+      },
+      {
+        "q": "Este tratamento é indicado para mim?",
+        "a": "Este serviço é ideal se:\nPensa que pode estar na perimenopausa ou na menopausa\nLida com sintomas sem explicação\nQuer clareza sobre a sua saúde hormonal\nEstá a considerar ou já usa THS\nQuer uma abordagem proativa e preventiva para envelhecer bem\nO próximo passo\nMarque a sua consulta hoje e tome as rédeas da sua saúde hormonal, com orientação especializada e cuidado personalizado."
+      }
+    ],
+    "prose": []
+  },
+  "health-mot": {
+    "name": "Consulta Health MOT",
+    "target": "Preocupações-alvo: apoio ao estilo de vida, envelhecimento saudável a longo prazo, gestão do peso, análises ao sangue, nutrição.",
+    "description": "O que é um Health MOT? Um Health MOT é uma revisão aprofundada da sua saúde global, que junta o olhar médico a recomendações personalizadas de estilo de vida.",
+    "pricing": [
+      "Note que todas as nossas consultas exigem um sinal.",
+      "Consulta inicial Health MOT (45 minutos) £295",
+      "Revisão presencial Health MOT (30 minutos) £190",
+      "Revisão telefónica Health MOT (20 minutos) £130"
+    ],
+    "faq": [
+      {
+        "q": "O que é um Health MOT?",
+        "a": "Um Health MOT é uma revisão aprofundada da sua saúde global, que junta o olhar médico a recomendações personalizadas de estilo de vida."
+      },
+      {
+        "q": "Porque é que isto importa?",
+        "a": "A investigação sugere que até 80% de muitas doenças crónicas comuns — em particular doença cardiovascular, AVC e diabetes tipo 2 — podem ser preveníveis através de mudanças no estilo de vida e no ambiente. Levanta uma pergunta importante: o que podemos fazer agora para nos dar a melhor hipótese de saúde a longo prazo e de uma boa qualidade de vida?\nAs doenças crónicas tendem a desenvolver-se de forma gradual, muitas vezes moldadas por fatores do dia a dia como a nutrição, a atividade física, o sono e o stress."
+      },
+      {
+        "q": "O que inclui a consulta?",
+        "a": "A sua consulta inclui:\nUma consulta conduzida por um médico, com uma abordagem proativa e personalizada à sua saúde.\nUma conversa detalhada sobre a sua história clínica e o seu estilo de vida, a ver o que está a correr bem e onde mudanças reais podem fazer diferença.\nAvaliação da saúde atual com medidas como a tensão arterial e a frequência cardíaca.\nAvaliação da composição corporal, quando for adequado.\nAnálise de marcadores essenciais de saúde e estratificação de risco apropriada.\nInterpretação personalizada dos resultados.\nUm plano de saúde e bem-estar à sua medida.\nOrientação sobre análises adequadas e a sua interpretação (quando necessárias, as análises têm um custo adicional)."
+      },
+      {
+        "q": "Porque escolher um Health MOT?",
+        "a": "Apoiar o envelhecimento saudável\nGanhar clareza e tranquilidade\nOtimizar energia, humor e desempenho\nA nossa abordagem\nAqui, na Espacio, acreditamos que a saúde vai além de gerir a doença. Trata-se de otimizar como se sente, no corpo e na mente, hoje, e de usar a melhor evidência disponível para otimizar como se sentirá daqui a 10, 20 e 30 anos."
+      },
+      {
+        "q": "Este tratamento é indicado para mim?",
+        "a": "Este serviço é ideal se:\nQuer uma abordagem proativa à sua saúde.\nQuer aprender a otimizar o seu bem-estar e a saúde a longo prazo.\nTem interesse em leituras de saúde assentes em evidência e em dados.\nO próximo passo:\nMarque o seu Health MOT e ganhe uma compreensão mais profunda da sua saúde, com feedback de um médico, para criar um plano desenhado inteiramente à sua volta."
+      }
+    ],
+    "prose": [
+      "Health MOT",
+      "Um retrato completo da sua saúde — agora e para o futuro."
+    ]
+  },
+  "lip-filler": {
+    "name": "Preenchimento labial",
+    "target": "Zona-alvo: preenchimento labial e da boca",
+    "description": "Principais preocupações que trata: perda de volume, lábios finos.",
+    "pricing": [
+      "Note que todas as nossas consultas e tratamentos exigem um sinal. Este valor é depois descontado no preço do tratamento, ou pode ser-lhe devolvido se não quiser avançar com nenhum tratamento.",
+      "Aumento labial 0,55 ml",
+      "£250.00",
+      "Aumento labial 1 ml",
+      "£300.00"
+    ],
+    "faq": [
+      {
+        "q": "O que são preenchimentos dérmicos?",
+        "a": "Os preenchimentos dérmicos são tratamentos injetáveis pensados para acrescentar volume, suavizar rugas e realçar os contornos do rosto. São feitos de ácido hialurónico, que existe naturalmente na pele e ajuda a devolver um aspeto mais jovem."
+      },
+      {
+        "q": "Que zonas podem ser tratadas com preenchimentos dérmicos?",
+        "a": "Os preenchimentos dérmicos podem ser usados em várias zonas do rosto, incluindo lábios, bochechas, linha da mandíbula, queixo e à volta da boca (para sulcos do sorriso e linhas de marionete). Também podem ser usados nas mãos para repor volume."
+      },
+      {
+        "q": "Quanto tempo duram os preenchimentos dérmicos?",
+        "a": "Os resultados dos preenchimentos dérmicos duram, em regra, entre 6 e 18 meses, consoante o tipo de preenchimento e a zona tratada. Com o tempo, o corpo degrada o preenchimento de forma natural, pelo que são precisos tratamentos de manutenção para sustentar o resultado."
+      },
+      {
+        "q": "Há tempo de recuperação?",
+        "a": "O tempo de recuperação dos preenchimentos dérmicos é mínimo. Pode haver algum inchaço, vermelhidão ou nódoa negra no local da injeção, mas estes efeitos costumam passar em poucos dias. A maioria das pessoas retoma o dia a dia no dia seguinte."
+      },
+      {
+        "q": "Quando vejo resultados?",
+        "a": "Os resultados dos preenchimentos dérmicos são visíveis quase de imediato, e o efeito completo surge em regra ao fim de alguns dias, quando o inchaço baixa."
+      }
+    ],
+    "prose": []
+  },
+  "skinvive": {
+    "name": "Skinvive® Skin Booster",
+    "target": "Zona-alvo: rosto, pescoço, mãos, decote",
+    "description": "Principais preocupações que trata: flacidez da pele, pele na menopausa, linhas e rugas, lábios envelhecidos, reserva de colagénio. Um skin booster injetável de nova geração, pensado para melhorar a hidratação, a suavidade e a luminosidade da pele, para um brilho saudável e radiante.",
+    "pricing": [
+      "Note que todos os nossos tratamentos exigem uma consulta com sinal. Este valor é depois descontado no preço do tratamento.",
+      "SKINVIVE 2 ml — £500",
+      "SKINVIVE 1 ml — £350"
+    ],
+    "faq": [
+      {
+        "q": "O que é o Skinvive?",
+        "a": "O SKINVIVE by JUVÉDERM® é um skin booster injetável de vanguarda, criado para melhorar a qualidade da pele e não para mudar a estrutura do rosto. Com ácido hialurónico em microgotas, trabalha sob a superfície para hidratar em profundidade, melhorar a suavidade e criar um aspeto fresco e saudável.\nEste tratamento gentil é ideal para pele baça, desidratada ou com ar cansado — oferece um brilho duradouro sem acrescentar volume nem alterar os contornos do rosto.\nO que está incluído:\nConsulta e avaliação da pele\nUma avaliação cuidadosa para confirmar que o SKINVIVE by JUVÉDERM® é o tratamento certo para as suas preocupações.\nTratamento com ácido hialurónico em microgotas\nMicroinjeções precisas para aumentar a hidratação, suavizar a textura e realçar o brilho.\nResultados naturais e subtis\nA pele fica mais fresca, mais hidratada e com um brilho natural, sem volume acrescentado.\nTempo de recuperação mínimo\nUm tratamento rápido, com pouca interferência na rotina.\nO seu percurso:\nConsulta — falar das preocupações da pele e da adequação do tratamento.\nTratamento Skinvive — microgotas colocadas com precisão, para um realce uniforme e natural.\nResultado fresco e radiante — espere uma pele de aspeto mais saudável e hidratada nas semanas seguintes.\nManutenção — os resultados duram, em regra, vários meses; repita o tratamento quando for preciso."
+      },
+      {
+        "q": "Porque escolher o Skinvive na Espacio?",
+        "a": "Aumenta a hidratação e a luminosidade a partir de dentro\nMelhora a textura e a suavidade da pele\nMantém a forma natural do rosto\nAdequado a todos os tipos de pele que procuram um aspeto fresco e saudável\nRealizado por profissionais médicos experientes, num ambiente seguro e calmo"
+      }
+    ],
+    "prose": []
+  },
+  "allergy-blood-testing": {
+    "name": "Análises de alergias",
+    "target": "Zona-alvo: medicina do estilo de vida, nutrição",
+    "description": "Principais preocupações que trata: uma análise abrangente ao sangue para despistar alergias alimentares e inalantes comuns, com respostas claras e tranquilidade.",
+    "pricing": [
+      "Note que todos os nossos tratamentos exigem uma consulta com sinal.",
+      "Painel completo de alergias alimentares e inalantes",
+      "£700"
+    ],
+    "faq": [
+      {
+        "q": "O que é a análise de alergias ao sangue?",
+        "a": "O nosso serviço de análises de alergias oferece uma avaliação laboratorial completa de um amplo conjunto de alergénios alimentares e inalantes. Este painel foi pensado para ajudar a identificar sensibilidades ou alergias que possam contribuir para sintomas como erupções, desconforto digestivo ou questões respiratórias.\nA análise é feita com uma simples amostra de sangue, colhida pela nossa equipa médica, e os resultados são-lhe enviados diretamente quando estiverem disponíveis. Não é necessária consulta de revisão, o que torna esta opção direta para quem quer apenas respostas claras.\nO que está incluído:\nPainel completo de alergias\nRastreio abrangente de um amplo conjunto de alergénios alimentares e inalantes.\nAnálise simples ao sangue\nUma amostra rápida e fácil, colhida na clínica por um profissional médico.\nResultados diretos\nO relatório é-lhe enviado diretamente, sem consulta de revisão obrigatória."
+      },
+      {
+        "q": "Porque escolher esta análise?",
+        "a": "Cobre um amplo conjunto de alergénios num só teste\nDá resultados claros, confirmados em laboratório\nNão exige seguimento, a menos que queira discutir os resultados\nÉ simples, cómodo e com resposta rápida"
+      }
+    ],
+    "prose": []
+  },
+  "nefertiti-neck-lift": {
+    "name": "Lifting do pescoço Nefertiti",
+    "target": "Zona-alvo: mandíbula e queixo, pescoço e decote",
+    "description": "Principais preocupações que trata: um tratamento refinado da face inferior e do pescoço, para um perfil mais liso, elevado e definido.",
+    "pricing": [
+      "Note que todas as nossas consultas e tratamentos exigem um sinal. Este valor é depois descontado no preço do tratamento, ou pode ser-lhe devolvido se não quiser avançar com nenhum tratamento.",
+      "Botox® — lifting da face inferior e do pescoço",
+      "£350.00"
+    ],
+    "faq": [
+      {
+        "q": "O que é o lifting do pescoço Nefertiti?",
+        "a": "O lifting do pescoço Nefertiti é um tratamento especializado com Botox®, pensado para rejuvenescer a linha da mandíbula e o pescoço. Ao relaxar os músculos platisma (as bandas verticais do pescoço que podem puxar o rosto para baixo), o tratamento cria um efeito de elevação subtil. O resultado é uma mandíbula mais definida, um pescoço mais liso e um aspeto fresco, sem cirurgia.\nO nome vem da rainha egípcia conhecida pela linha elegante do pescoço. É uma escolha frequente para quem procura um rejuvenescimento facial natural e não cirúrgico.\nO que está incluído:\nConsulta e avaliação\nUma consulta detalhada para compreender as suas preocupações e avaliar se o tratamento é indicado.\nTratamento dirigido com Botox®\nInjeções precisas na face inferior e no pescoço, para relaxar músculos hiperativos e criar elevação.\nResultados naturais e subtis\nSuavização das bandas do pescoço, melhor definição da mandíbula e um perfil mais liso e jovem.\nTempo de recuperação mínimo\nProcedimento rápido e confortável, sem período de recuperação.\nO seu percurso:\nConsulta — falar dos objetivos e da adequação.\nTratamento — injeções rápidas e precisas, feitas com cuidado.\nResultados — visíveis em 1 a 2 semanas, com duração de cerca de 3 a 4 meses.\nRevisão e manutenção — apoio contínuo e repetições para manter o resultado."
+      },
+      {
+        "q": "Porque escolher o lifting do pescoço Nefertiti na Espacio?",
+        "a": "Alternativa não cirúrgica a um lifting tradicional do pescoço\nRealça a definição da mandíbula e suaviza as linhas do pescoço\nOferece um rejuvenescimento subtil e de aspeto natural\nRealizado por profissionais médicos experientes"
+      }
+    ],
+    "prose": []
+  },
+  "personalised-skin-prescriptions": {
+    "name": "Prescrições de pele personalizadas",
+    "target": "Zona-alvo: pele baça, acne e imperfeições, linhas e rugas, pele na menopausa, pigmentação, vermelhidão",
+    "description": "Principais preocupações que trata: skincare de prescrição, ajustado com rigor, para as suas preocupações — da acne e da pigmentação ao envelhecimento e à saúde geral da pele.",
+    "pricing": [
+      "Note que todos os nossos tratamentos exigem uma consulta com sinal.",
+      "£200"
+    ],
+    "faq": [],
+    "prose": [
+      "Um serviço de skincare à medida, conduzido pela Dr.ª Becky, que junta conhecimento médico a uma abordagem personalizada para o ajudar a ter uma pele mais saudável e mais límpida. Na consulta, a Dr.ª Becky avalia em detalhe as suas preocupações — da acne e da pigmentação ao envelhecimento e à sensibilidade — antes de criar um plano de skincare de força de prescrição, desenhado para si.",
+      "Este tratamento vai além dos produtos de prateleira e oferece fórmulas baseadas na evidência, dirigidas aos seus objetivos. Com apoio contínuo e ajustes quando forem precisos, o plano evolui consigo para resultados duradouros."
+    ]
+  },
+  "medical-weight-management": {
+    "name": "Gestão médica do peso",
+    "target": "Preocupação-alvo: gestão do peso, análises ao sangue, perda de peso médica, tensão arterial, nutrição",
+    "description": "O que está incluído: uma abordagem clínica e personalizada à perda de peso sustentável. O peso depende de muito mais do que dieta e exercício. Hormonas, metabolismo, estilo de vida e fatores médicos têm um papel. As nossas consultas de gestão médica do peso oferecem apoio especializado, conduzido por um médico, para resultados sustentáveis a longo prazo, com um plano feito à sua medida.",
+    "pricing": [
+      "Note que todas as nossas consultas exigem um sinal.",
+      "Consulta inicial de gestão do peso (30 min) £200",
+      "Revisão presencial de gestão do peso (20 min) £130",
+      "Revisão telefónica de gestão do peso (15 min) £95"
+    ],
+    "faq": [
+      {
+        "q": "O que é a gestão médica do peso?",
+        "a": "O nosso serviço de gestão médica do peso destina-se a quem quer chegar a um peso mais saudável por métodos seguros e sustentáveis. Adotamos uma abordagem da pessoa inteira, que considera nutrição, atividade, sono, stress e fatores de saúde subjacentes.\nQuer o objetivo seja melhorar a energia, apoiar a tensão arterial ou o controlo da glicose, ou reduzir riscos de saúde, recebe apoio personalizado, passo a passo, para mudanças que se mantêm.\nO que está incluído:\nConsulta inicial abrangente.\nUma consulta aprofundada com a Dr.ª Becky ou a Dr.ª Suzie para compreender a sua saúde, o seu estilo de vida e os objetivos de peso.\nAnálise seriada da composição corporal com a nossa máquina Tanita MC-780.\nMedicação prescrita quando for adequada (custo adicional).\nUm plano à sua medida, a cobrir nutrição, atividade, sono e estratégias de gestão do stress.\nApoio baseado na evidência — orientação prática assente nos seis pilares da medicina do estilo de vida, incluindo prescrições se forem necessárias, com foco no sucesso a longo prazo.\nAnálises ao sangue se estiverem indicadas (custo adicional), para identificar fatores metabólicos ou hormonais que possam influenciar o peso.\nRevisão e apoio contínuos.\nConsultas de seguimento regulares para acompanhar o progresso, as prescrições, encorajar e ajustar o plano.\nO seu percurso\nConsulta inicial — uma consulta alargada com um dos nossos médicos para explorar em detalhe a sua saúde e os objetivos de peso.\nPlano personalizado — o médico desenha um plano realista e baseado na evidência, com conselho e prescrições quando estiverem indicados.\nApoio pelo caminho — consultas de seguimento orientadas por dados, para assegurar uma perda de peso saudável, ajustar o plano e celebrar os marcos."
+      },
+      {
+        "q": "Porque escolher esta abordagem?",
+        "a": "Centra-se na saúde a longo prazo, não em soluções rápidas.\nA medicação é apenas uma peça: podemos integrar o tratamento médico com o apoio ao estilo de vida.\nEntregue por médicos experientes, com formação especializada em medicina do estilo de vida e da longevidade.\nIntegra conhecimento médico e apoio ao estilo de vida.\nPersonalizada aos seus objetivos e circunstâncias."
+      }
+    ],
+    "prose": []
+  },
+  "lifestyle-medicine": {
+    "name": "Consulta de medicina do estilo de vida",
+    "target": "Zona-alvo: gestão médica do peso, nutrição e sono, análises ao sangue, perda de peso médica, tensão arterial e saúde cardiovascular.",
+    "description": "Principais preocupações que trata: uma abordagem preventiva e da pessoa inteira à saúde — medicina do estilo de vida à medida, com foco na gestão do peso, nas análises e no bem-estar a longo prazo.",
+    "pricing": [
+      "Note que todas as nossas consultas exigem um sinal.",
+      "Consulta inicial de medicina do estilo de vida (45 minutos) £295",
+      "Revisão presencial de medicina do estilo de vida (30 minutos) £190",
+      "Revisão telefónica de medicina do estilo de vida (20 minutos) £130"
+    ],
+    "faq": [
+      {
+        "q": "O que é a medicina do estilo de vida?",
+        "a": "Uma abordagem preventiva e da pessoa inteira à saúde: medicina do estilo de vida à medida, com foco na gestão do peso, nas análises e no bem-estar a longo prazo.\nConsultas abrangentes de estilo de vida\nSessões individuais que exploram os seus hábitos, necessidades e objetivos para construir um plano de saúde sustentável.\nAnálises personalizadas\nExames escolhidos para informar áreas-chave — metabolismo, hormonas, nutrientes — numa abordagem baseada na evidência.\nApoio nos seis pilares da medicina do estilo de vida\nOrientação em nutrição, sono, atividade, stress, evitamento de substâncias e bem-estar social — desenhada em especial para apoiar um peso saudável.\nGestão da tensão arterial e da glicose\nEstratégias conduzidas pelo estilo de vida para apoiar uma tensão arterial e uma glicemia ótimas.\nGestão do peso\nApoio prático e personalizado, incluindo perda de peso médica, para alcançar e manter um peso saudável através de mudanças equilibradas e/ou prescrições."
+      },
+      {
+        "q": "Porque escolher esta abordagem?",
+        "a": "Privilegia a saúde a longo prazo, não apenas correções de curto prazo.\nCuidado informado pela evidência, construído à volta dos seis pilares da medicina do estilo de vida.\nEntregue pela Dr.ª Becky — médica de família experiente, com credenciais avançadas em dermatologia e medicina do estilo de vida."
+      },
+      {
+        "q": "Como será o seu percurso?",
+        "a": "Comece com uma conversa\nA primeira consulta é uma conversa calma e aprofundada com a Dr.ª Becky, para compreender a sua saúde, o seu estilo de vida e os seus objetivos.\nVerifique o que mais importa\nSe for útil, pedimos análises simples e personalizadas para ter um retrato claro da sua saúde.\nCrie o plano em conjunto\nCom os resultados e os seus objetivos, a Dr.ª Becky desenha um plano de estilo de vida realista, passo a passo, feito para si.\nApoio contínuo\nFicamos ao seu lado com consultas de seguimento, para o manter no caminho, ajustar o plano e celebrar o progresso."
+      }
+    ],
+    "prose": []
+  },
+  "plasmage-skin-lesion-removal": {
+    "name": "Remoção de lesões cutâneas com Plasmage",
+    "target": "Zona-alvo: olhos, pescoço e decote",
+    "description": "Principais preocupações que trata: fibromas e verrugas, queratose seborreica. O Plasmage é um tratamento não invasivo que usa energia de plasma para remover com segurança e precisão lesões benignas, como verrugas, fibromas e queratose seborreica, sem incisões cirúrgicas.",
+    "pricing": [
+      "Note que todos os nossos tratamentos exigem uma consulta com sinal. Este valor é depois descontado no preço do tratamento.",
+      "Lesão cutânea isolada £250",
+      "Várias lesões cutâneas desde £400",
+      "Fibromas (até 4) £250",
+      "Fibromas (mais de 4) desde £400",
+      "Queratose seborreica £400",
+      "Remoção de fibroma na pálpebra £400"
+    ],
+    "faq": [
+      {
+        "q": "O que é o Plasmage e como funciona?",
+        "a": "O Plasmage é um tratamento não invasivo que usa energia de plasma para várias preocupações da pele, como o aperto das pálpebras (blefaroplastia), rugas e lesões cutâneas. O dispositivo ioniza gases do ar e cria um pequeno arco de plasma, que vaporiza as camadas externas da pele sem danificar o tecido em volta, promovendo regeneração e firmeza."
+      },
+      {
+        "q": "Que zonas podem ser tratadas com Plasmage?",
+        "a": "O Plasmage é usado com frequência em liftings não cirúrgicos das pálpebras (blefaroplastia) e no tratamento de rugas à volta dos olhos e da boca. Também pode ajudar a remover fibromas, verrugas e queratose seborreica, o que o torna versátil para diferentes preocupações."
+      },
+      {
+        "q": "Quanto tempo demora o tratamento e há recuperação?",
+        "a": "Uma sessão de Plasmage dura, em regra, 25 a 45 minutos, consoante a zona. A recuperação é mínima, mas pode haver ligeira vermelhidão, inchaço e crosta na zona tratada durante cerca de 7 dias, enquanto a pele cicatriza. Evite mexer nas crostas para a cicatrização correr bem."
+      },
+      {
+        "q": "O Plasmage dói?",
+        "a": "A maioria das pessoas tolera bem o tratamento. Aplica-se um anestésico local ou um creme anestésico antes do procedimento para reduzir o desconforto, e a sensação costuma ser ligeira, semelhante a um formigueiro ou a um calor suave."
+      },
+      {
+        "q": "Quanto tempo duram os resultados e quantos tratamentos são precisos?",
+        "a": "Os resultados do Plasmage são duradouros, muitas vezes visíveis após uma sessão, e continuam a melhorar à medida que a pele cicatriza. Consoante a zona e o estado da pele, podem ser precisas 2 sessões para o resultado desejado."
+      }
+    ],
+    "prose": []
+  },
+  "emsella": {
+    "name": "Pavimento pélvico e incontinência",
+    "target": "Zona-alvo: pavimento pélvico, incontinência, saúde íntima",
+    "description": "Principais preocupações que trata: o BTL EMSELLA é uma boa opção para homens e mulheres de qualquer idade que procuram uma solução não invasiva para a incontinência urinária e uma melhoria da qualidade da vida íntima.",
+    "pricing": [
+      "Note que o tratamento Emsella exige uma consulta inicial de £60 com um dos nossos profissionais médicos, para avaliar a adequação. Este valor é dedutível em qualquer sessão ou pacote de Emsella marcado a seguir.",
+      "Sessão individual £150",
+      "£900 pelo pacote inicial de 6 sessões, mais a primeira sessão de manutenção.",
+      "Depois de concluído o pacote inicial, oferecemos uma inscrição no Clube Emsella por £15 por mês, que permite marcar uma sessão de manutenção até uma vez por mês."
+    ],
+    "faq": [
+      {
+        "q": "Como funciona o BTL EMSELLA?",
+        "a": "O BTL EMSELLA usa energia eletromagnética para estimular em profundidade os músculos do pavimento pélvico, sem ser preciso despir-se. Uma única sessão de BTL EMSELLA produz milhares de contrações semelhantes a Kegel, que treinam os músculos sem esforço. A investigação científica mostra que 95% dos pacientes com incontinência referiram uma melhoria significativa no dia a dia, e observou-se 85% de melhoria na satisfação íntima global.*"
+      },
+      {
+        "q": "Benefícios do BTL EMSELLA",
+        "a": "• Um procedimento não invasivo, sem tempo de recuperação.\n• Permanece vestido durante o tratamento.\n• Recupera o controlo da bexiga e dos músculos pélvicos sem exercícios demorados.\n• Um procedimento confortável, em que pode relaxar durante os 28 minutos.\n• Pode notar melhoria após uma única sessão. Os resultados costumam continuar a melhorar nas semanas seguintes.\n• Resultados tangíveis após cerca de seis sessões, marcadas duas vezes por semana."
+      }
+    ],
+    "prose": []
+  },
+  "pollyneedling": {
+    "name": "Poly-Needling",
+    "target": "Zona-alvo: rosto, pescoço, decote",
+    "description": "Principais preocupações que trata: linhas e rugas, reserva de colagénio, pigmentação, pele baça, textura, envelhecimento da pele. Conheça a evolução seguinte do rejuvenescimento cutâneo com o Poly-Needling, uma técnica de vanguarda que junta o poder do micro-needling aos benefícios regenerativos dos polinucleótidos. Este tratamento avançado favorece a reparação da pele, estimula a produção de colagénio e melhora a elasticidade, para uma pele mais saudável e mais radiante.",
+    "pricing": [
+      "Note que todas as consultas exigem um sinal de £50. Este valor é depois descontado no preço do tratamento.",
+      "Sessão individual: £300",
+      "Pacote de 3 sessões: £810"
+    ],
+    "faq": [
+      {
+        "q": "O que é o Poly-Needling?",
+        "a": "Os polinucleótidos, derivados de fragmentos de ADN, são introduzidos na pele durante o micro-needling para acelerar a cicatrização natural e promover a regeneração celular. Esta abordagem visa linhas finas, rugas, cicatrizes de acne e textura irregular, ao mesmo tempo que aumenta a hidratação e a vitalidade. Com os benefícios acrescentados da vitamina C e do ácido hialurónico, a pele fica de imediato luminosa."
+      },
+      {
+        "q": "Para quem é indicado o Poly-Needling?",
+        "a": "Este tratamento é ideal para quem quer melhorar a textura, a elasticidade e a hidratação da pele. Adequa-se a vários tipos de pele e pode ajudar no envelhecimento, nas cicatrizes, na pigmentação ou no rejuvenescimento geral."
+      },
+      {
+        "q": "Quanto tempo dura uma sessão e quantos tratamentos vou precisar?",
+        "a": "Uma sessão típica dura 45 a 60 minutos. Para melhores resultados, recomendamos um pacote de 3 tratamentos, com um mês de intervalo. Sessões de manutenção de 6 em 6 meses podem prolongar o efeito."
+      },
+      {
+        "q": "Há efeitos secundários ou tempo de recuperação?",
+        "a": "Pode haver vermelhidão, inchaço ou tensão ligeiros, mas estes efeitos costumam passar em poucos dias. A recuperação é mínima e pode retomar as atividades normais pouco depois do tratamento."
+      },
+      {
+        "q": "Quanto tempo duram os resultados?",
+        "a": "Os resultados podem durar entre 6 e 12 meses, consoante o estado da pele e o estilo de vida. Tratamentos de manutenção regulares ajudam a sustentar os benefícios."
+      }
+    ],
+    "prose": []
+  },
+  "copy-of-polynucleotides": {
+    "name": "Polinucleótidos",
+    "target": "Zona-alvo: olhos",
+    "description": "Principais preocupações que trata: linhas e rugas, reserva de colagénio, olhos cansados.",
+    "pricing": [
+      "Note que todos os nossos tratamentos exigem uma consulta com sinal. Este valor é depois descontado no preço do tratamento.",
+      "£250"
+    ],
+    "faq": [
+      {
+        "q": "O que são os polinucleótidos e como funcionam?",
+        "a": "Os polinucleótidos são moléculas naturais que ajudam a regenerar e a reparar a pele, estimulando o crescimento celular, melhorando a hidratação e aumentando a produção de colagénio. São injetados na pele e conduzem, com o tempo, a um aspeto mais jovem e mais firme."
+      },
+      {
+        "q": "Para quem é indicado o tratamento com polinucleótidos?",
+        "a": "Este tratamento é ideal para quem quer melhorar a textura, a elasticidade e a hidratação da pele. Adequa-se a vários tipos de pele e pode ajudar no envelhecimento, nas cicatrizes, na pigmentação ou no rejuvenescimento geral."
+      },
+      {
+        "q": "Quanto tempo dura uma sessão e quantos tratamentos vou precisar?",
+        "a": "Uma sessão típica dura 30 a 60 minutos. Para melhores resultados, a maioria das pessoas precisa de 2 a 4 tratamentos, com 2 a 4 semanas de intervalo. Sessões de manutenção de 6 em 6 meses podem prolongar o efeito."
+      },
+      {
+        "q": "Há efeitos secundários ou tempo de recuperação?",
+        "a": "Pode haver vermelhidão, inchaço ou nódoa negra ligeiros nos locais de injeção, mas estes efeitos costumam passar em poucos dias. A recuperação é mínima e pode retomar as atividades normais pouco depois do tratamento."
+      },
+      {
+        "q": "Quanto tempo duram os resultados?",
+        "a": "Os resultados podem durar entre 6 e 12 meses, consoante o estado da pele e o estilo de vida. Tratamentos de manutenção regulares ajudam a sustentar os benefícios."
+      }
+    ],
+    "prose": []
+  },
+  "copy-of-viscoderm": {
+    "name": "Viscoderm",
+    "target": "Zona-alvo: lábios e boca",
+    "description": "Principais preocupações que trata: flacidez da pele, pele na menopausa, linhas e rugas, lábios envelhecidos, reserva de colagénio. O VISCODERM Hydrobooster é um gel de ácido hialurónico com baixo grau de reticulação, usado para repor a hidratação entre as camadas da pele e contribuir para a melhoria da estrutura e da elasticidade.",
+    "pricing": [
+      "Note que todos os nossos tratamentos exigem uma consulta com sinal. Este valor é depois descontado no preço do tratamento.",
+      "Linhas periorais — £350",
+      "Hidratação profunda — £350"
+    ],
+    "faq": [
+      {
+        "q": "O que é o Viscoderm?",
+        "a": "O Viscoderm é um tratamento estético profissional que consiste em injetar ácido hialurónico (AH) altamente purificado na pele para melhorar a hidratação, a elasticidade e o tom. Ajuda a rejuvenescer a pele a partir de dentro, ao estimular a produção de colagénio."
+      },
+      {
+        "q": "Como funciona o Viscoderm?",
+        "a": "O Viscoderm leva hidratação às camadas profundas da pele, o que promove a regeneração natural. O ácido hialurónico ajuda a reter água, dando à pele um aspeto mais cheio e jovem, ao mesmo tempo que reduz as linhas finas."
+      },
+      {
+        "q": "Para quem é indicado o Viscoderm?",
+        "a": "O Viscoderm é ideal para quem quer melhorar a qualidade da pele, reduzir sinais de envelhecimento ou aumentar a hidratação. Pode ser usado no rosto, pescoço, decote e mãos, e adequa-se a vários tipos de pele."
+      },
+      {
+        "q": "Que zonas podem ser tratadas com Viscoderm?",
+        "a": "O Viscoderm é mais usado no rosto, mas também é eficaz no pescoço, no peito e nas mãos — zonas que mostram com frequência sinais de envelhecimento e desidratação."
+      },
+      {
+        "q": "Quanto tempo dura uma sessão de Viscoderm?",
+        "a": "Uma sessão típica dura cerca de 30 a 45 minutos, consoante as zonas tratadas."
+      },
+      {
+        "q": "O que posso esperar durante o tratamento?",
+        "a": "O tratamento consiste numa série de pequenas injeções com agulhas muito finas. Pode sentir um desconforto ligeiro, mas a maioria das pessoas tolera bem. Alguns profissionais usam creme anestésico para maior conforto."
+      },
+      {
+        "q": "Quantos tratamentos vou precisar?",
+        "a": "O número de sessões depende do estado da pele e dos objetivos, mas em regra recomendam-se 2 a 3 tratamentos, com 3 a 4 semanas de intervalo, para um resultado ótimo."
+      },
+      {
+        "q": "Há efeitos secundários?",
+        "a": "Depois do tratamento pode haver alguma vermelhidão, inchaço ligeiro ou nódoa negra no local da injeção. Estes efeitos são temporários e devem passar em poucos dias."
+      },
+      {
+        "q": "Quando vejo resultados?",
+        "a": "Pode notar uma melhoria na hidratação e na textura ao fim de alguns dias, mas o efeito completo desenvolve-se nas semanas seguintes ao tratamento."
+      },
+      {
+        "q": "Quanto tempo duram os resultados?",
+        "a": "Os resultados duram, em regra, 4 a 6 meses, após os quais pode ser recomendado um tratamento de manutenção para preservar os benefícios."
+      },
+      {
+        "q": "Há tempo de recuperação?",
+        "a": "O tempo de recuperação do Viscoderm é mínimo. Pode regressar às atividades normais de imediato, embora se recomende evitar exercício intenso, álcool e exposição excessiva ao sol durante 24 horas."
+      }
+    ],
+    "prose": []
+  },
+  "copy-of-profhilo-body": {
+    "name": "Profhilo® Body",
+    "target": "Zona-alvo: bochechas, mandíbula e queixo, pescoço e decote, mãos, braços e abdómen",
+    "description": "Principais preocupações que trata: flacidez da pele, pele na menopausa, linhas e rugas, pele baça, reserva de colagénio.",
+    "pricing": [
+      "Note que todos os nossos tratamentos exigem uma consulta com sinal. Este valor é depois descontado no preço do tratamento.",
+      "O Profhilo é um tratamento hidratante revolucionário de ácido hialurónico sob a pele, feito com a tecnologia patenteada NAHYCO. O Profhilo melhora o aspeto das linhas finas e das rugas nas camadas superficiais da pele, ao mesmo tempo que ajuda a aumentar a hidratação e a firmeza.",
+      "Profhilo rosto",
+      "£275.00",
+      "Profhilo pescoço",
+      "£275.00",
+      "Profhilo decote",
+      "£275.00",
+      "Manutenção Profhilo",
+      "Mantenha o resultado do Profhilo nos 6 meses seguintes ao pacote inicial, para um resultado ótimo.",
+      "£250.00",
+      "Profhilo Body — abdómen",
+      "Inclui sessão de seguimento. Patch Figura Body e creme corporal incluídos para reforçar os resultados em casa.",
+      "Desde £600.00",
+      "Profhilo Body — mãos",
+      "Inclui sessão de seguimento. Consoante a consulta, podem ser precisos 2 tratamentos completos. Patch Figura Body e creme corporal incluídos para reforçar os resultados em casa.",
+      "Desde £600.00",
+      "Profhilo Body — braços",
+      "O Profhilo Body — braços exige, em regra, um pacote de 2 tratamentos com 4 semanas de intervalo. Patch Figura Body e creme corporal incluídos para reforçar os resultados em casa.",
+      "Desde £600.00"
+    ],
+    "faq": [
+      {
+        "q": "O que é o Profhilo®?",
+        "a": "O Profhilo® é um tratamento injetável que hidrata e firma a pele. É um tratamento único e não invasivo de remodelação cutânea, feito de ácido hialurónico, pensado para melhorar a flacidez e a qualidade global da pele. Ao contrário dos preenchimentos tradicionais, o Profhilo® espalha-se de forma uniforme, entregando hidratação e estimulando a produção de colagénio e elastina."
+      },
+      {
+        "q": "Como funciona o Profhilo®?",
+        "a": "O Profhilo® contém uma concentração elevada de ácido hialurónico, injetado logo abaixo da superfície da pele. Uma vez injetado, dispersa-se de forma uniforme, hidrata a pele a partir de dentro e estimula a produção de colagénio e elastina, o que ajuda a firmar a pele."
+      },
+      {
+        "q": "Que zonas podem ser tratadas com Profhilo®?",
+        "a": "O Profhilo® é mais usado no rosto, pescoço, decote e mãos. É ideal para zonas onde a pele mostra sinais de envelhecimento, como linhas finas, rugas e flacidez."
+      },
+      {
+        "q": "Quanto tempo duram os resultados do Profhilo®?",
+        "a": "Os efeitos do Profhilo® podem durar até 6 meses, mas isto varia com a idade, o tipo de pele e o estilo de vida. Para um resultado ótimo, recomenda-se um pacote inicial de dois tratamentos com quatro semanas de intervalo, seguido de manutenção de 6 em 6 meses."
+      },
+      {
+        "q": "O que devo esperar durante o tratamento?",
+        "a": "O tratamento com Profhilo® consiste numa série de pequenas injeções em pontos específicos da zona tratada. O procedimento é rápido, em regra 15 a 30 minutos, e o desconforto é mínimo. Não é necessário creme anestésico, embora possa ser aplicado se for preciso."
+      },
+      {
+        "q": "Há tempo de recuperação com o Profhilo®?",
+        "a": "O Profhilo® tem um tempo de recuperação mínimo. Pode haver alguma vermelhidão, inchaço ou pequenos altos nos locais de injeção, mas estes costumam passar em 24 horas. A maioria das pessoas retoma as atividades normais no dia seguinte."
+      },
+      {
+        "q": "Quando vejo resultados?",
+        "a": "Pode começar a notar uma melhoria na textura e na hidratação ao fim de alguns dias, com o efeito completo mais visível após 4 semanas. A pele fica mais lisa, mais cheia e mais radiante."
+      }
+    ],
+    "prose": []
+  },
+  "copy-of-profhilo": {
+    "name": "Profhilo®",
+    "target": "Zona-alvo: bochechas, mandíbula e queixo, pescoço e decote, mãos, braços e abdómen",
+    "description": "Principais preocupações que trata: flacidez da pele, pele na menopausa, linhas e rugas, pele baça, reserva de colagénio.",
+    "pricing": [
+      "Note que todos os nossos tratamentos exigem uma consulta com sinal. Este valor é depois descontado no preço do tratamento.",
+      "O Profhilo é um tratamento hidratante revolucionário de ácido hialurónico sob a pele, feito com a tecnologia patenteada NAHYCO. O Profhilo melhora o aspeto das linhas finas e das rugas nas camadas superficiais da pele, ao mesmo tempo que ajuda a aumentar a hidratação e a firmeza.",
+      "Profhilo rosto",
+      "£275.00",
+      "Profhilo pescoço",
+      "£275.00",
+      "Profhilo decote",
+      "£275.00",
+      "Manutenção Profhilo",
+      "Mantenha o resultado do Profhilo nos 6 meses seguintes ao pacote inicial, para um resultado ótimo.",
+      "£250.00",
+      "Profhilo Body — abdómen",
+      "Inclui sessão de seguimento. Patch Figura Body e creme corporal incluídos para reforçar os resultados em casa.",
+      "Desde £600.00",
+      "Profhilo Body — mãos",
+      "Inclui sessão de seguimento. Consoante a consulta, podem ser precisos 2 tratamentos completos. Patch Figura Body e creme corporal incluídos para reforçar os resultados em casa.",
+      "Desde £600.00",
+      "Profhilo Body — braços",
+      "O Profhilo Body — braços exige, em regra, um pacote de 2 tratamentos com 4 semanas de intervalo. Patch Figura Body e creme corporal incluídos para reforçar os resultados em casa.",
+      "Desde £600.00"
+    ],
+    "faq": [
+      {
+        "q": "O que é o Profhilo®?",
+        "a": "O Profhilo® é um tratamento injetável que hidrata e firma a pele. É um tratamento único e não invasivo de remodelação cutânea, feito de ácido hialurónico, pensado para melhorar a flacidez e a qualidade global da pele. Ao contrário dos preenchimentos tradicionais, o Profhilo® espalha-se de forma uniforme, entregando hidratação e estimulando a produção de colagénio e elastina."
+      },
+      {
+        "q": "Como funciona o Profhilo®?",
+        "a": "O Profhilo® contém uma concentração elevada de ácido hialurónico, injetado logo abaixo da superfície da pele. Uma vez injetado, dispersa-se de forma uniforme, hidrata a pele a partir de dentro e estimula a produção de colagénio e elastina, o que ajuda a firmar a pele."
+      },
+      {
+        "q": "Que zonas podem ser tratadas com Profhilo®?",
+        "a": "O Profhilo® é mais usado no rosto, pescoço, decote e mãos. É ideal para zonas onde a pele mostra sinais de envelhecimento, como linhas finas, rugas e flacidez."
+      },
+      {
+        "q": "Quanto tempo duram os resultados do Profhilo®?",
+        "a": "Os efeitos do Profhilo® podem durar até 6 meses, mas isto varia com a idade, o tipo de pele e o estilo de vida. Para um resultado ótimo, recomenda-se um pacote inicial de dois tratamentos com quatro semanas de intervalo, seguido de manutenção de 6 em 6 meses."
+      },
+      {
+        "q": "O que devo esperar durante o tratamento?",
+        "a": "O tratamento com Profhilo® consiste numa série de pequenas injeções em pontos específicos da zona tratada. O procedimento é rápido, em regra 15 a 30 minutos, e o desconforto é mínimo. Não é necessário creme anestésico, embora possa ser aplicado se tiver a pele sensível."
+      },
+      {
+        "q": "Há tempo de recuperação com o Profhilo®?",
+        "a": "O Profhilo® tem um tempo de recuperação mínimo. Pode haver alguma vermelhidão, inchaço ou pequenos altos nos locais de injeção, mas estes costumam passar em 24 horas. A maioria das pessoas retoma as atividades normais no dia seguinte."
+      },
+      {
+        "q": "Quando vejo resultados?",
+        "a": "Pode começar a notar uma melhoria na textura e na hidratação ao fim de alguns dias, com o efeito completo mais visível após 4 semanas. A pele fica mais lisa, mais cheia e mais radiante."
+      }
+    ],
+    "prose": []
+  },
+  "copy-of-botox-excessive-sweating": {
+    "name": "Botox® para transpiração excessiva",
+    "target": "Zona-alvo: axilas",
+    "description": "Principais preocupações que trata: transpiração excessiva.",
+    "pricing": [
+      "Note que todos os nossos tratamentos exigem um sinal para garantir a consulta. Este valor é depois descontado no preço do tratamento.",
+      "Botox® — transpiração excessiva desde £400",
+      "Esta é uma opção não cirúrgica para a transpiração excessiva, também conhecida como hiperidrose. A zona afetada é injetada com Botox, que bloqueia os sinais nervosos que fazem as glândulas sudoríparas transpirar."
+    ],
+    "faq": [
+      {
+        "q": "O que é o Botox®?",
+        "a": "O Botox® é uma neurotoxina injetável que interrompe temporariamente os sinais nervosos que chegam aos músculos-alvo. É usado como tratamento cosmético para reduzir o aspeto de linhas finas e rugas, ao relaxar temporariamente os músculos subjacentes. Também pode interromper os sinais que chegam às glândulas sudoríparas e, por isso, ser usado no tratamento não cirúrgico da transpiração excessiva."
+      },
+      {
+        "q": "O que posso esperar durante o tratamento?",
+        "a": "O procedimento com Botox® é rápido e minimamente invasivo. Um profissional médico usa uma agulha fina para injetar pequenas quantidades de Botox® na zona-alvo. Pode sentir uma ligeira picada, mas o desconforto é em geral mínimo. No tratamento da hiperidrose, o processo costuma demorar cerca de 20 a 30 minutos."
+      },
+      {
+        "q": "Há tempo de recuperação?",
+        "a": "Há pouco ou nenhum tempo de recuperação com o Botox®. A maioria das pessoas retoma as atividades normais de imediato. Convém, ainda assim, evitar exercício intenso, calor excessivo ou friccionar a zona tratada durante cerca de 24 horas, para o melhor resultado."
+      },
+      {
+        "q": "Quanto tempo dura o tratamento?",
+        "a": "Como em todos os tratamentos com Botox, o efeito é temporário, mas pode durar até 6 meses."
+      },
+      {
+        "q": "O que devo fazer depois do tratamento com Botox®?",
+        "a": "Os cuidados posteriores são simples. Evite tocar ou massajar as zonas tratadas no resto do dia. Evite atividade física vigorosa ou calor excessivo nas primeiras 24 horas. Deve também evitar saunas, hidromassagem e tratamentos faciais intensos durante alguns dias, para um resultado ótimo."
+      }
+    ],
+    "prose": []
+  },
+  "copy-of-dermal-filler": {
+    "name": "Preenchimento dérmico",
+    "target": "Zonas-alvo: bochecha, mandíbula e queixo, lábios e boca, têmporas, pescoço e decote.",
+    "description": "Principais preocupações que trata: o preenchimento dérmico é usado para rejuvenescer ou realçar a zona-alvo, dando suporte, estrutura e hidratação. Preocupações frequentes que podem ser tratadas incluem lábios finos, flacidez ou depressão facial, e afinamento e definição do rosto.",
+    "pricing": [
+      "Note que todas as nossas consultas e tratamentos exigem um sinal. Este valor é depois descontado no preço do tratamento, ou pode ser-lhe devolvido se não quiser avançar com nenhum tratamento.",
+      "Preenchimento do pescoço 1 ml",
+      "£300.00",
+      "Escultura das bochechas",
+      "£300.00",
+      "Escultura da mandíbula / queixo",
+      "£350.00",
+      "Aumento labial 0,55 ml",
+      "£250.00",
+      "Aumento labial 1 ml",
+      "£300.00",
+      "Preenchimento das linhas de marionete",
+      "£300.00",
+      "Preenchimento do sulco nasogeniano",
+      "£300.00",
+      "Preenchimento das têmporas",
+      "£400",
+      "O rejuvenescimento facial Signature",
+      "Desde £575.00",
+      "Com quantidades mínimas de preenchimento dérmico, colocadas com cuidado, este tratamento devolve equilíbrio, suavidade e frescura ao rosto. Em vez de mudar a forma como se vê, o objetivo é um aspeto natural e rejuvenescido.",
+      "Restauro não cirúrgico do pescoço",
+      "£1,050.00",
+      "O lifting não cirúrgico do pescoço inclui uma consulta para desenhar o seu plano personalizado, seguida de um pacote de 2 tratamentos com 4 semanas de intervalo. Com uma combinação dos produtos mais recentes, o restauro do pescoço foi pensado para tratar a flacidez, as linhas em «colar» e para hidratar e dar volume à pele."
+    ],
+    "faq": [
+      {
+        "q": "O que são preenchimentos dérmicos?",
+        "a": "Os preenchimentos dérmicos são tratamentos injetáveis pensados para acrescentar volume, suavizar rugas e realçar os contornos do rosto. São feitos de ácido hialurónico, que existe naturalmente na pele e ajuda a devolver um aspeto mais jovem."
+      },
+      {
+        "q": "Que zonas podem ser tratadas com preenchimentos dérmicos?",
+        "a": "Os preenchimentos dérmicos podem ser usados em várias zonas do rosto, incluindo lábios, bochechas, linha da mandíbula, queixo e à volta da boca (para sulcos do sorriso e linhas de marionete). Também podem ser usados nas mãos para repor volume."
+      },
+      {
+        "q": "Quanto tempo duram os preenchimentos dérmicos?",
+        "a": "Os resultados dos preenchimentos dérmicos duram, em regra, entre 6 e 18 meses, consoante o tipo de preenchimento e a zona tratada. Com o tempo, o corpo degrada o preenchimento de forma natural, pelo que são precisos tratamentos de manutenção para sustentar o resultado."
+      },
+      {
+        "q": "Há tempo de recuperação?",
+        "a": "O tempo de recuperação dos preenchimentos dérmicos é mínimo. Pode haver algum inchaço, vermelhidão ou nódoa negra no local da injeção, mas estes efeitos costumam passar em poucos dias. A maioria das pessoas retoma o dia a dia no dia seguinte."
+      },
+      {
+        "q": "Quando vejo resultados?",
+        "a": "Os resultados dos preenchimentos dérmicos são visíveis quase de imediato, e o efeito completo surge em regra ao fim de alguns dias, quando o inchaço baixa. Notará uma pele mais lisa, volume acrescentado e contornos do rosto realçados."
+      }
+    ],
+    "prose": []
+  },
+  "copy-of-botox": {
+    "name": "Botox®",
+    "target": "Zona-alvo: testa e sobrancelhas, olhos, mandíbula e queixo, lábios e boca, pescoço e decote",
+    "description": "Principais preocupações que trata: linhas e rugas, lábios finos, traços faciais envelhecidos, olhos cansados, afinamento do rosto, bruxismo e ranger de dentes, transpiração excessiva.",
+    "pricing": [
+      "Note que todas as nossas consultas e tratamentos exigem um sinal. Este valor é depois descontado no preço do tratamento.",
+      "Botox® — 1 zona",
+      "£210.00",
+      "Botox® — 2 zonas",
+      "£275.00",
+      "Botox® — 3 zonas",
+      "£325.00",
+      "Botox® — 4 zonas",
+      "£400.00",
+      "Botox® lifting do pescoço",
+      "£250.00",
+      "Botox® lifting da face inferior",
+      "£225.00",
+      "Botox® lifting da face inferior e do pescoço",
+      "£350.00",
+      "Também conhecido como lifting do pescoço Nefertiti; pode saber mais sobre este tratamento aqui.",
+      "Botox® — masseter",
+      "desde £275",
+      "Este tratamento pode ser usado para afinar o rosto, contornar uma mandíbula quadrada e ajudar a criar uma forma de rosto mais equilibrada. O tratamento dirigido do masseter também pode ajudar a gerir o ranger e o apertar dos dentes, reduzindo a tensão na mandíbula, a dor e as dores de cabeça. O preço depende do número de unidades usadas para o efeito desejado.",
+      "Botox® — transpiração excessiva",
+      "desde £400",
+      "Um tratamento não cirúrgico da hiperidrose consiste em injetar a zona com Botox. É uma solução temporária eficaz para a transpiração excessiva, porque o Botox impede que os sinais para transpirar cheguem às glândulas sudoríparas. Pode ler mais sobre este tratamento aqui."
+    ],
+    "faq": [
+      {
+        "q": "O que é o Botox?",
+        "a": "O Botox® é uma neurotoxina injetável que interrompe temporariamente os sinais nervosos que chegam aos músculos-alvo. É usado como tratamento cosmético para reduzir o aspeto de linhas finas e rugas, ao relaxar temporariamente os músculos subjacentes. É usado com frequência para melhorar o aspeto de zonas como a testa, os pés de galinha e as linhas do sobrolho."
+      },
+      {
+        "q": "O que posso esperar durante o tratamento?",
+        "a": "O procedimento com Botox é rápido e minimamente invasivo. Um profissional usa uma agulha fina para injetar pequenas quantidades de Botox em músculos específicos. Pode sentir uma ligeira picada, mas o desconforto é em geral mínimo. O processo costuma demorar cerca de 10 a 20 minutos."
+      },
+      {
+        "q": "Há tempo de recuperação?",
+        "a": "Há pouco ou nenhum tempo de recuperação com o Botox. A maioria das pessoas retoma as atividades normais de imediato. Convém, ainda assim, evitar exercício intenso, deitar-se ou friccionar a zona tratada durante cerca de 4 horas, para o melhor resultado."
+      },
+      {
+        "q": "O que devo fazer depois do tratamento com Botox?",
+        "a": "Os cuidados posteriores são simples. Evite tocar ou massajar as zonas tratadas no resto do dia. Procure manter a cabeça direita tanto quanto possível e evite atividade física vigorosa nas primeiras 24 horas. Deve também evitar saunas, hidromassagem e tratamentos faciais intensos durante alguns dias, para um resultado ótimo."
+      }
+    ],
+    "prose": []
+  },
+  "dermalux": {
+    "name": "Fototerapia LED Dermalux",
+    "target": "Zona-alvo: rosto, mãos, pescoço e decote",
+    "description": "Principais preocupações que trata: vermelhidão, pigmentação e tom irregular, textura e imperfeições, pele na menopausa, pele baça, estimulação de colagénio. Na Espacio temos a máquina de fototerapia LED mais potente do mundo, a Dermalux Triwave MD. É capaz de produzir em simultâneo 3 comprimentos de onda diferentes, e em combinações distintas pode tratar um conjunto de preocupações da pele. Luz azul (415 nm): alvos — acne e bactérias. Benefícios: a luz azul tem propriedades antibacterianas e é eficaz na acne. Penetra a superfície da pele para eliminar as bactérias que causam acne, reduzir surtos e prevenir os seguintes. Também ajuda a acalmar a inflamação e a melhorar a clareza da pele. Luz vermelha (633 nm): alvos — rejuvenescimento e antienvelhecimento. Benefícios: a luz vermelha penetra mais fundo e estimula a produção de colagénio e elastina. Isto ajuda a reduzir linhas finas e rugas, a melhorar a elasticidade e a promover um tom mais uniforme. Também reforça a cicatrização natural e o brilho global. Luz de infravermelho próximo (830 nm): alvos — regeneração dos tecidos profundos e inflamação. Benefícios: a luz de infravermelho próximo penetra as camadas mais profundas, promove a reparação celular, reduz a inflamação e acelera a cicatrização. É particularmente útil para reduzir vermelhidão, sensibilidade e irritação, e melhora o estado geral da pele. Estes comprimentos de onda combinados permitem à Dermalux TriWave tratar um amplo conjunto de preocupações. A Dermalux pode ser usada em todas as zonas do corpo para preocupações da pele e lesões.",
+    "pricing": [
+      "Note que todos os nossos tratamentos exigem uma consulta com sinal. Este valor é depois descontado no preço do tratamento.",
+      "Pacotes:",
+      "£300 por 10",
+      "£200 por 6",
+      "Dermalux Tri-Wave MD (20 min)",
+      "A Dermalux LED, várias vezes premiada, é o tratamento não invasivo de referência que usa o poder da luz natural para uma pele visivelmente radiante, rejuvenescida e refinada. Uma pele bonita é alcançável para todos com a Dermalux. Um tratamento energiza de imediato as células da pele e revitaliza uma tez baça e cansada.",
+      "Um pacote de tratamentos oferece resultados visíveis e duradouros, ao estimular os processos naturais de rejuvenescimento e reparação da pele, acelerar a renovação celular, resolver problemas cutâneos e promover uma pele vibrante e saudável.",
+      "£40.00",
+      "Dermalux como complemento pós-tratamento.",
+      "Maximize os resultados do seu tratamento de pele com a Dermalux LED. Ideal para surtos indesejados, para estimular colagénio e promover a cicatrização.",
+      "£20.00"
+    ],
+    "faq": [
+      {
+        "q": "O que é a Dermalux TriWave e como funciona?",
+        "a": "A Dermalux TriWave é um tratamento avançado de fototerapia LED que usa três comprimentos de onda clinicamente comprovados — azul, vermelho e infravermelho próximo — para rejuvenescer a pele. Estas luzes atuam ao estimular a atividade celular, reduzir a inflamação e promover a produção de colagénio, o que ajuda a melhorar a textura, o tom e a saúde geral da pele."
+      },
+      {
+        "q": "Que preocupações da pele pode a Dermalux TriWave tratar?",
+        "a": "Este tratamento é eficaz para várias preocupações, incluindo acne, rosácea, hiperpigmentação, linhas finas e pele baça. Também pode acelerar a cicatrização e reduzir a vermelhidão, o que o torna uma opção versátil de rejuvenescimento."
+      },
+      {
+        "q": "Quantas sessões são precisas para ver resultados?",
+        "a": "Melhorias visíveis podem surgir muitas vezes após uma única sessão, mas recomenda-se um pacote de 6 a 12 sessões para um resultado ótimo. Tratamentos de manutenção ajudam a prolongar os benefícios."
+      },
+      {
+        "q": "Há tempo de recuperação depois de um tratamento Dermalux TriWave?",
+        "a": "Não há tempo de recuperação com a Dermalux TriWave. Pode regressar às atividades normais de imediato, o que o torna uma opção ideal para quem tem uma vida ocupada."
+      }
+    ],
+    "prose": []
+  },
+  "lash-clinic": {
+    "name": "Lash Clinic",
+    "target": "Zona-alvo: cabelo e pestanas",
+    "description": "Principais preocupações que trata: queda de cabelo.",
+    "pricing": [
+      "Note que todos os nossos tratamentos exigem uma consulta com sinal. Este valor é depois descontado no preço do tratamento.",
+      "£100 (inclui 60 dias de sérum de pestanas de prescrição)"
+    ],
+    "faq": [],
+    "prose": [
+      "Uma consulta com um dos nossos profissionais para avaliar a adequação ao nosso sérum de pestanas de prescrição, clinicamente comprovado para favorecer o crescimento das pestanas, ajudando-as a ficarem mais longas, mais cheias e mais escuras com o tempo.",
+      "Se for adequado, recebe uma prescrição e orientação para uma utilização segura e eficaz, com resultados naturalmente bonitos."
+    ]
+  },
+  "peels": {
+    "name": "Peelings",
+    "target": "Zona-alvo: rosto",
+    "description": "Principais preocupações que trata: pele baça, textura e tom irregulares, pigmentação, imperfeições. Os peelings químicos melhoram a textura e o tom da pele ao esfoliar células mortas, reduzir linhas finas, cicatrizes de acne e pigmentação. Deixam a pele mais lisa, mais luminosa e mais uniforme, e são um tratamento eficaz para uma tez radiante.",
+    "pricing": [
+      "Note que todos os nossos tratamentos e consultas exigem um sinal na marcação. Este valor é depois descontado no preço do tratamento.",
+      "Tratamento individual: £89.00",
+      "Pacote de 3: £225",
+      "Dermaceutic Crystal Peel",
+      "Uma combinação de ácidos mandélico, cítrico e salicílico é usada no peeling profissional de força média da Dermaceutic. Foi desenvolvido para ajudar em preocupações como pele oleosa ou poros dilatados, melasma, pigmentação solar e manchas da idade, pigmentação pós-inflamatória, acne ligeira e hiperqueratose. É uma ótima opção isolada para um brilho imediato, ou como complemento de outros tratamentos estéticos.",
+      "Dermaceutic Milk Peel",
+      "Uma combinação de ácidos glicólico, láctico e salicílico é usada no peeling profissional de força média da Dermaceutic. Foi desenvolvido para ajudar em preocupações como acne ligeira, pigmentação superficial e queratose pilar. É também uma opção excelente para acrescentar a outros tratamentos estéticos e obter um belo brilho.",
+      "Ambos os peelings Dermaceutic foram pensados para esfoliar a pele, estimular a renovação celular e melhorar o aspeto de linhas finas, rugas, tom e textura irregulares. Atuam ao remover células mortas, revelando uma tez mais lisa e reforçando o rejuvenescimento."
+    ],
+    "faq": [
+      {
+        "q": "O que é um peeling e como funciona?",
+        "a": "Um peeling químico é um tratamento que aplica uma solução na pele para esfoliar e remover células mortas. Este processo revela uma pele mais fresca e mais lisa por baixo, e estimula o crescimento de novas células, melhorando a textura e o tom."
+      },
+      {
+        "q": "Que preocupações podem os peelings tratar?",
+        "a": "Os peelings são eficazes para várias preocupações, incluindo linhas finas, rugas, cicatrizes de acne, hiperpigmentação, dano solar e tom irregular. Também podem ajudar a reduzir o aspeto de poros dilatados e a melhorar a textura geral."
+      },
+      {
+        "q": "Os peelings são seguros e têm efeitos secundários?",
+        "a": "Sim, os peelings químicos são seguros quando realizados por um profissional formado. Efeitos frequentes podem incluir vermelhidão, secura, descamação e sensibilidade, que em regra passam em alguns dias a uma semana, consoante a profundidade do peeling."
+      },
+      {
+        "q": "Quantos tratamentos são precisos para ver resultados?",
+        "a": "O número de tratamentos depende do estado da pele e do tipo de peeling. Um pacote de 3 sessões, com quatro semanas de intervalo, é recomendado para o nosso peeling AlphaRet, para um resultado ótimo."
+      },
+      {
+        "q": "Há tempo de recuperação depois de um peeling químico?",
+        "a": "A recuperação varia com o tipo de peeling. O nosso peeling AlphaRet pode ter uma recuperação mínima, com alguma vermelhidão e descamação; o profissional dará instruções de cuidados posteriores para acompanhar a cicatrização."
+      }
+    ],
+    "prose": []
+  },
+  "plasmage": {
+    "name": "Plasmage",
+    "target": "Zona-alvo: olhos, pescoço e decote, lábios e boca",
+    "description": "Principais preocupações que trata: flacidez da pele, lábios envelhecidos, olhos cansados. O Plasmage é um dispositivo de energia de plasma indicado para a remoção não invasiva de lesões cutâneas e para o lifting não cirúrgico dos olhos. O primeiro plasma fracionado patenteado para dermatologia e medicina estética.",
+    "pricing": [
+      "Note que o Plasmage exige uma consulta no valor de £50. Este valor é depois descontado no preço se avançar com o tratamento.",
+      "Pálpebras superiores e inferiores",
+      "Os tratamentos de lifting não cirúrgico dos olhos têm resultados notáveis: o efeito é semelhante a um procedimento cirúrgico, sem cirurgia invasiva, e a recuperação é curta, com resultados impressionantes. O procedimento dura cerca de 15 a 30 minutos, com o resultado final visível em cerca de 8 a 12 semanas.",
+      "£495.00",
+      "Pálpebras superiores ou inferiores",
+      "Os tratamentos de lifting não cirúrgico dos olhos têm resultados notáveis: o efeito é semelhante a um procedimento cirúrgico, sem cirurgia invasiva, e a recuperação é curta, com resultados impressionantes. O procedimento dura cerca de 15 a 30 minutos, com o resultado final visível em cerca de 8 a 12 semanas.",
+      "£300.00"
+    ],
+    "faq": [
+      {
+        "q": "O que é o Plasmage e como funciona?",
+        "a": "O Plasmage é um tratamento não invasivo que usa energia de plasma para várias preocupações da pele, como o aperto das pálpebras (blefaroplastia), rugas e lesões cutâneas. O dispositivo ioniza gases do ar e cria um pequeno arco de plasma, que vaporiza as camadas externas da pele sem danificar o tecido em volta, promovendo regeneração e firmeza."
+      },
+      {
+        "q": "Que zonas podem ser tratadas com Plasmage?",
+        "a": "O Plasmage é usado com frequência em liftings não cirúrgicos das pálpebras (blefaroplastia) e no tratamento de rugas à volta dos olhos e da boca. Também pode ajudar com fibromas, verrugas e queratose seborreica, o que o torna versátil para diferentes preocupações."
+      },
+      {
+        "q": "Quanto tempo demora o tratamento e há recuperação?",
+        "a": "Uma sessão de Plasmage dura, em regra, 25 a 45 minutos, consoante a zona. A recuperação é mínima, mas pode haver ligeira vermelhidão, inchaço e crosta na zona tratada durante cerca de 7 dias, enquanto a pele cicatriza. Evite mexer nas crostas para a cicatrização correr bem."
+      },
+      {
+        "q": "O Plasmage dói?",
+        "a": "A maioria das pessoas tolera bem o tratamento. Aplica-se um anestésico local ou um creme anestésico antes do procedimento para reduzir o desconforto, e a sensação costuma ser ligeira, semelhante a um formigueiro ou a um calor suave."
+      },
+      {
+        "q": "Quanto tempo duram os resultados e quantos tratamentos são precisos?",
+        "a": "Os resultados do Plasmage são duradouros, muitas vezes visíveis após uma sessão, e continuam a melhorar à medida que a pele cicatriza. Consoante a zona e o estado da pele, podem ser precisas 2 sessões para o resultado desejado."
+      }
+    ],
+    "prose": []
+  },
+  "micro-needling": {
+    "name": "Micro-needling",
+    "target": "Zona-alvo: testa e sobrancelhas, olhos, mandíbula e queixo, pescoço e decote, corpo, cabelo",
+    "description": "Principais preocupações que trata: vermelhidão, pigmentação, textura e imperfeições, flacidez da pele, pele na menopausa, queda de cabelo, linhas e rugas, reserva de colagénio, olhos cansados. O micro-needling é uma forma de terapia de indução de colagénio que usa agulhas pequenas para criar microcanais na pele. Isto ajuda a estimular a resposta natural de cicatrização do corpo e a fortalecer a rede de colagénio. É uma excelente opção para várias preocupações, incluindo textura e flacidez, cicatrizes de acne e pigmentação.",
+    "pricing": [
+      "Note que todas as nossas consultas exigem um sinal de £50. Este valor é depois descontado no preço do tratamento.",
+      "Micro-needling",
+      "Individual: £240.00",
+      "Pacote de 3: £675",
+      "Complemento de micro-needling no pescoço e decote",
+      "Obtenha a terapia de indução de colagénio completa ao tratar rosto, pescoço e decote num só tratamento.",
+      "£25.00"
+    ],
+    "faq": [
+      {
+        "q": "O que é o micro-needling e como funciona?",
+        "a": "O micro-needling é um tratamento minimamente invasivo que usa um dispositivo com agulhas finas para criar pequenas punções na pele. Isto estimula o processo natural de cicatrização, promove a produção de colagénio e elastina, melhora a textura, reduz rugas e ajuda nas cicatrizes."
+      },
+      {
+        "q": "Que preocupações pode o micro-needling tratar?",
+        "a": "O micro-needling pode abordar várias preocupações, incluindo linhas finas e rugas, cicatrizes de acne, poros dilatados, estrias e tom irregular. Também pode melhorar a textura e a firmeza gerais da pele."
+      },
+      {
+        "q": "Quantos tratamentos vou precisar?",
+        "a": "O número de tratamentos depende dos objetivos e do estado da pele. Para um rejuvenescimento geral, são típicas 3 a 4 sessões com cerca de 4 semanas de intervalo. Para questões mais marcadas, como cicatrizes profundas ou estrias, podem ser precisos mais tratamentos."
+      },
+      {
+        "q": "Há tempo de recuperação depois do micro-needling?",
+        "a": "O micro-needling tem uma recuperação mínima. Pode haver vermelhidão e um ligeiro inchaço, semelhantes a uma queimadura solar suave, durante 24 a 48 horas. A maioria das pessoas retoma as atividades normais no dia seguinte."
+      }
+    ],
+    "prose": []
+  },
+  "prp-hair-therapy": {
+    "name": "Terapia capilar PRP",
+    "target": "Zona-alvo: cabelo",
+    "description": "Principais preocupações que trata: queda de cabelo, reserva de colagénio. O PRP é um tratamento natural e regenerativo que usa os fatores de crescimento do seu próprio corpo para estimular os folículos e apoiar um cabelo mais espesso e mais saudável.",
+    "pricing": [
+      "Note que todos os nossos tratamentos exigem uma consulta com sinal. Este valor é depois descontado no preço do tratamento.",
+      "Terapia capilar PRP",
+      "A terapia capilar PRP (plasma rico em plaquetas) é um tratamento natural que usa o seu próprio sangue para promover o crescimento do cabelo. O processo consiste em colher uma pequena quantidade de sangue, que é depois processada para concentrar as plaquetas. Estas plaquetas são ricas em fatores de crescimento que ajudam a estimular os folículos, favorecendo o crescimento e melhorando a espessura e a saúde do cabelo.",
+      "£400.00",
+      "Pacote de 3: £1,100 (inclui Dermalux pós-tratamento)"
+    ],
+    "faq": [
+      {
+        "q": "O que é o PRP e como funciona?",
+        "a": "A terapia capilar PRP (plasma rico em plaquetas) é um tratamento clinicamente comprovado para a queda de cabelo e a perda precoce. Atua ao usar o poder regenerativo das suas próprias plaquetas, ricas em fatores de crescimento. Quando injetado com cuidado no couro cabeludo, o PRP ajuda a ativar e a nutrir folículos adormecidos, favorecendo um crescimento mais forte e mais denso com o tempo.\nEste procedimento minimamente invasivo é indicado para homens e mulheres que procuram melhorar a espessura do cabelo, abrandar a queda e reforçar a saúde do couro cabeludo."
+      },
+      {
+        "q": "Quais são os benefícios do tratamento PRP?",
+        "a": "O PRP usa o seu próprio ADN para uma forma natural de rejuvenescer a pele, reduzir linhas finas, melhorar o tom e a textura, tratar a queda de cabelo e ajudar na redução de cicatrizes. É procurado tanto para rejuvenescimento facial como para restauração capilar."
+      },
+      {
+        "q": "Como é feito o tratamento PRP?",
+        "a": "É colhida uma pequena quantidade do seu sangue, processada para separar o plasma rico em plaquetas, e depois injetada na zona-alvo. O processo costuma demorar cerca de 45 minutos a uma hora."
+      },
+      {
+        "q": "O PRP é seguro e há efeitos secundários?",
+        "a": "Como o PRP usa o seu próprio sangue, é em geral considerado seguro, com risco mínimo de reações alérgicas ou complicações. Efeitos frequentes podem incluir vermelhidão, inchaço ou nódoa negra ligeiros no local da injeção, que em regra resolvem em poucos dias."
+      },
+      {
+        "q": "Quanto tempo duram os resultados do PRP?",
+        "a": "Os resultados do PRP costumam aparecer de forma gradual ao longo de várias semanas e podem durar entre 6 e 12 meses, consoante a zona tratada e a resposta do corpo. É preciso um pacote de tratamentos, e podem ser recomendadas sessões de manutenção para sustentar o resultado."
+      }
+    ],
+    "prose": []
+  }
+}
